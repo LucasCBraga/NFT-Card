@@ -1,0 +1,70 @@
+body {
+    background: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+h1 {
+    color:hsl(0, 0%, 100%);
+    padding: 1rem;
+    align-self: flex-start;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+hr {
+    border-color: rgba(255, 255, 255, 0.185);
+    width: 85%;   
+}
+
+.container {
+    background: hsl(216, 50%, 16%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width: 30%;
+    margin-top: 7rem;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
+
+}
+
+.img-carta {
+    width: 92%;
+    padding-top: 2rem;
+}
+
+p {
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+    padding-bottom: 1rem;
+    align-self: flex-start;
+    margin: 1rem;
+    line-height: 1.3;
+}
+
+.caixa {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+        
+}
+
+.texto-preco {
+    color: hsl(178, 100%, 50%);   
+    
+}
+
+.rodape {
+    display: flex;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.img-avatar {
+    width: 15%;
+    height: 15%;
+}
+
+
+

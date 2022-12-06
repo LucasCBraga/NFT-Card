@@ -1,27 +1,21 @@
-# Frontend Mentor - NFT preview card component
+# NFT Card 
+![GitHub language count](https://img.shields.io/github/languages/count/LucasCBraga/NFT-Card?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/LucasCBraga/NFT-Card?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasCBraga/NFT-Card?style=for-the-badge)
 
-![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
-
-## Welcome! 👋
-
-
+![projeto nft](https://user-images.githubusercontent.com/113993228/205926165-74859ae9-e491-4b18-a6e3-883312d4e338.jpg)
 
 
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+## Desafio
 
-Your challenge is to build out this preview card component and get it looking as close to the design as possible.
+Neste projeto, o desafio era deixar a pagina o mais possivel parecida com a original.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Utilizei as tecnologias HTML e CSS
 
-Your users should be able to:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 
 

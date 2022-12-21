@@ -7,6 +7,7 @@
 
 ![projeto nft](https://user-images.githubusercontent.com/113993228/205926165-74859ae9-e491-4b18-a6e3-883312d4e338.jpg)
 
+<hr>
 
 ## Desafio
 

@@ -1,4 +1,4 @@
-# NFT Card 
+# NFT-Card 
 ![GitHub language count](https://img.shields.io/github/languages/count/LucasCBraga/NFT-Card?style=for-the-badge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/LucasCBraga/NFT-Card?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/LucasCBraga/NFT-Card?style=for-the-badge)

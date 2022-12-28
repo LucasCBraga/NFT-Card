@@ -13,7 +13,7 @@
 
 Neste projeto, o desafio era deixar a pagina o mais possivel parecida com a original.
 
-Utilizei as tecnologias HTML e CSS
+Utilizei as tecnologias HTML e CSS.
 
 <hr>
 

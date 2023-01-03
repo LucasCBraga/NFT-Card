@@ -15,6 +15,8 @@ Neste projeto, o desafio era deixar a pagina o mais possivel parecida com a orig
 
 Utilizei as tecnologias HTML e CSS.
 
+<hr>
+
 
 
 
